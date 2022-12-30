@@ -1,5 +1,5 @@
 console.log('Hello');
-console.log('Hello');
+console.log('Hi');
 
 
 const add = (a,b) => {
