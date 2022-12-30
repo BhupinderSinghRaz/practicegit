@@ -13,5 +13,5 @@ const multiply = (a,b) => {
   return a*b;
 }
 
-const res2 = multiply(10,20);
-console.log(res2);
+const a = multiply(10,20);
+console.log(a);
